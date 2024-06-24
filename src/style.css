@@ -1,0 +1,11 @@
+ .app {
+    display: flex;
+    justify-content: space-evenly;
+    width: 22%;
+    padding: 10px;
+ }
+ img{
+    padding: 10px;
+    width:25%;
+    height: 300px;
+}
