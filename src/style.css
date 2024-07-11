@@ -9,3 +9,7 @@
     width:25%;
     height: 300px;
 }
+
+.dashboard{
+   height: calc(100%)
+}

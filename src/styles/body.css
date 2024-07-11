@@ -1,0 +1,18 @@
+.body{
+    display: flex;
+
+    height: calc(100%-90%);
+}
+
+.leftNav{
+    height: 480px;
+    width: 10%;
+    background-color: brown;
+}
+
+.container {
+    width: 90%;
+    height: 480px;
+    overflow: hidden;
+    
+}
